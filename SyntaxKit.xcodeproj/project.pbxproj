@@ -131,6 +131,43 @@
 		8CEEC0E21C411F9700BF3E85 /* Repository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEEC0E11C411F9700BF3E85 /* Repository.swift */; };
 		8CEEC0E31C411F9700BF3E85 /* Repository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEEC0E11C411F9700BF3E85 /* Repository.swift */; };
 		8CEEC0E41C411F9700BF3E85 /* Repository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEEC0E11C411F9700BF3E85 /* Repository.swift */; };
+		D6CC0C461F4A705A00EEFB6F /* SKAttributedParser.h in Headers */ = {isa = PBXBuildFile; fileRef = D6CC0C211F4A705A00EEFB6F /* SKAttributedParser.h */; };
+		D6CC0C471F4A705A00EEFB6F /* SKAttributedParser.m in Sources */ = {isa = PBXBuildFile; fileRef = D6CC0C221F4A705A00EEFB6F /* SKAttributedParser.m */; };
+		D6CC0C481F4A705A00EEFB6F /* SKAttributedParsingOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = D6CC0C231F4A705A00EEFB6F /* SKAttributedParsingOperation.h */; };
+		D6CC0C491F4A705A00EEFB6F /* SKAttributedParsingOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = D6CC0C241F4A705A00EEFB6F /* SKAttributedParsingOperation.m */; };
+		D6CC0C4A1F4A705A00EEFB6F /* SKBundleManager.h in Headers */ = {isa = PBXBuildFile; fileRef = D6CC0C251F4A705A00EEFB6F /* SKBundleManager.h */; };
+		D6CC0C4B1F4A705A00EEFB6F /* SKBundleManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D6CC0C261F4A705A00EEFB6F /* SKBundleManager.m */; };
+		D6CC0C4C1F4A705A00EEFB6F /* SKCapture.h in Headers */ = {isa = PBXBuildFile; fileRef = D6CC0C271F4A705A00EEFB6F /* SKCapture.h */; };
+		D6CC0C4D1F4A705A00EEFB6F /* SKCapture.m in Sources */ = {isa = PBXBuildFile; fileRef = D6CC0C281F4A705A00EEFB6F /* SKCapture.m */; };
+		D6CC0C4E1F4A705A00EEFB6F /* SKCaptureCollection.h in Headers */ = {isa = PBXBuildFile; fileRef = D6CC0C291F4A705A00EEFB6F /* SKCaptureCollection.h */; };
+		D6CC0C4F1F4A705A00EEFB6F /* SKCaptureCollection.m in Sources */ = {isa = PBXBuildFile; fileRef = D6CC0C2A1F4A705A00EEFB6F /* SKCaptureCollection.m */; };
+		D6CC0C501F4A705A00EEFB6F /* SKHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = D6CC0C2B1F4A705A00EEFB6F /* SKHelper.h */; };
+		D6CC0C511F4A705A00EEFB6F /* SKHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = D6CC0C2C1F4A705A00EEFB6F /* SKHelper.m */; };
+		D6CC0C521F4A705A00EEFB6F /* SKHelperConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = D6CC0C2D1F4A705A00EEFB6F /* SKHelperConfig.h */; };
+		D6CC0C531F4A705A00EEFB6F /* SKHelperConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = D6CC0C2E1F4A705A00EEFB6F /* SKHelperConfig.m */; };
+		D6CC0C541F4A705A00EEFB6F /* SKInclude.h in Headers */ = {isa = PBXBuildFile; fileRef = D6CC0C2F1F4A705A00EEFB6F /* SKInclude.h */; };
+		D6CC0C551F4A705A00EEFB6F /* SKInclude.m in Sources */ = {isa = PBXBuildFile; fileRef = D6CC0C301F4A705A00EEFB6F /* SKInclude.m */; };
+		D6CC0C561F4A705A00EEFB6F /* SKLanguage.h in Headers */ = {isa = PBXBuildFile; fileRef = D6CC0C311F4A705A00EEFB6F /* SKLanguage.h */; };
+		D6CC0C571F4A705A00EEFB6F /* SKLanguage.m in Sources */ = {isa = PBXBuildFile; fileRef = D6CC0C321F4A705A00EEFB6F /* SKLanguage.m */; };
+		D6CC0C581F4A705A00EEFB6F /* SKParser.h in Headers */ = {isa = PBXBuildFile; fileRef = D6CC0C331F4A705A00EEFB6F /* SKParser.h */; };
+		D6CC0C591F4A705A00EEFB6F /* SKParser.m in Sources */ = {isa = PBXBuildFile; fileRef = D6CC0C341F4A705A00EEFB6F /* SKParser.m */; };
+		D6CC0C5A1F4A705A00EEFB6F /* SKPattern.h in Headers */ = {isa = PBXBuildFile; fileRef = D6CC0C351F4A705A00EEFB6F /* SKPattern.h */; };
+		D6CC0C5B1F4A705A00EEFB6F /* SKPattern.m in Sources */ = {isa = PBXBuildFile; fileRef = D6CC0C361F4A705A00EEFB6F /* SKPattern.m */; };
+		D6CC0C5C1F4A705A00EEFB6F /* SKReferenceManager.h in Headers */ = {isa = PBXBuildFile; fileRef = D6CC0C371F4A705A00EEFB6F /* SKReferenceManager.h */; };
+		D6CC0C5D1F4A705A00EEFB6F /* SKReferenceManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D6CC0C381F4A705A00EEFB6F /* SKReferenceManager.m */; };
+		D6CC0C5E1F4A705A00EEFB6F /* SKRepository.h in Headers */ = {isa = PBXBuildFile; fileRef = D6CC0C391F4A705A00EEFB6F /* SKRepository.h */; };
+		D6CC0C5F1F4A705A00EEFB6F /* SKRepository.m in Sources */ = {isa = PBXBuildFile; fileRef = D6CC0C3A1F4A705A00EEFB6F /* SKRepository.m */; };
+		D6CC0C601F4A705A00EEFB6F /* SKResult.h in Headers */ = {isa = PBXBuildFile; fileRef = D6CC0C3B1F4A705A00EEFB6F /* SKResult.h */; };
+		D6CC0C611F4A705A00EEFB6F /* SKResult.m in Sources */ = {isa = PBXBuildFile; fileRef = D6CC0C3C1F4A705A00EEFB6F /* SKResult.m */; };
+		D6CC0C621F4A705A00EEFB6F /* SKResultSet.h in Headers */ = {isa = PBXBuildFile; fileRef = D6CC0C3D1F4A705A00EEFB6F /* SKResultSet.h */; };
+		D6CC0C631F4A705A00EEFB6F /* SKResultSet.m in Sources */ = {isa = PBXBuildFile; fileRef = D6CC0C3E1F4A705A00EEFB6F /* SKResultSet.m */; };
+		D6CC0C641F4A705A00EEFB6F /* SKScopedString.h in Headers */ = {isa = PBXBuildFile; fileRef = D6CC0C3F1F4A705A00EEFB6F /* SKScopedString.h */; };
+		D6CC0C651F4A705A00EEFB6F /* SKScopedString.m in Sources */ = {isa = PBXBuildFile; fileRef = D6CC0C401F4A705A00EEFB6F /* SKScopedString.m */; };
+		D6CC0C661F4A705A00EEFB6F /* SKTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = D6CC0C411F4A705A00EEFB6F /* SKTheme.h */; };
+		D6CC0C671F4A705A00EEFB6F /* SKTheme.m in Sources */ = {isa = PBXBuildFile; fileRef = D6CC0C421F4A705A00EEFB6F /* SKTheme.m */; };
+		D6CC0C681F4A705A00EEFB6F /* SyntaxKit.h in Headers */ = {isa = PBXBuildFile; fileRef = D6CC0C431F4A705A00EEFB6F /* SyntaxKit.h */; };
+		D6CC0C691F4A705A00EEFB6F /* UIColor+SKColor.h in Headers */ = {isa = PBXBuildFile; fileRef = D6CC0C441F4A705A00EEFB6F /* UIColor+SKColor.h */; };
+		D6CC0C6A1F4A705A00EEFB6F /* UIColor+SKColor.m in Sources */ = {isa = PBXBuildFile; fileRef = D6CC0C451F4A705A00EEFB6F /* UIColor+SKColor.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -235,6 +272,45 @@
 		8CE8D1161C4EBF8F005A86B3 /* SwiftBaselineHighlightingTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftBaselineHighlightingTests.swift; sourceTree = "<group>"; };
 		8CEEC0DD1C411C8600BF3E85 /* ReferenceManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = ReferenceManager.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8CEEC0E11C411F9700BF3E85 /* Repository.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = Repository.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D6CC0C191F4A703500EEFB6F /* SyntaxKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SyntaxKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D6CC0C1C1F4A703600EEFB6F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D6CC0C211F4A705A00EEFB6F /* SKAttributedParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKAttributedParser.h; sourceTree = "<group>"; };
+		D6CC0C221F4A705A00EEFB6F /* SKAttributedParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKAttributedParser.m; sourceTree = "<group>"; };
+		D6CC0C231F4A705A00EEFB6F /* SKAttributedParsingOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKAttributedParsingOperation.h; sourceTree = "<group>"; };
+		D6CC0C241F4A705A00EEFB6F /* SKAttributedParsingOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKAttributedParsingOperation.m; sourceTree = "<group>"; };
+		D6CC0C251F4A705A00EEFB6F /* SKBundleManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKBundleManager.h; sourceTree = "<group>"; };
+		D6CC0C261F4A705A00EEFB6F /* SKBundleManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKBundleManager.m; sourceTree = "<group>"; };
+		D6CC0C271F4A705A00EEFB6F /* SKCapture.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKCapture.h; sourceTree = "<group>"; };
+		D6CC0C281F4A705A00EEFB6F /* SKCapture.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKCapture.m; sourceTree = "<group>"; };
+		D6CC0C291F4A705A00EEFB6F /* SKCaptureCollection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKCaptureCollection.h; sourceTree = "<group>"; };
+		D6CC0C2A1F4A705A00EEFB6F /* SKCaptureCollection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKCaptureCollection.m; sourceTree = "<group>"; };
+		D6CC0C2B1F4A705A00EEFB6F /* SKHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKHelper.h; sourceTree = "<group>"; };
+		D6CC0C2C1F4A705A00EEFB6F /* SKHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKHelper.m; sourceTree = "<group>"; };
+		D6CC0C2D1F4A705A00EEFB6F /* SKHelperConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKHelperConfig.h; sourceTree = "<group>"; };
+		D6CC0C2E1F4A705A00EEFB6F /* SKHelperConfig.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKHelperConfig.m; sourceTree = "<group>"; };
+		D6CC0C2F1F4A705A00EEFB6F /* SKInclude.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKInclude.h; sourceTree = "<group>"; };
+		D6CC0C301F4A705A00EEFB6F /* SKInclude.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKInclude.m; sourceTree = "<group>"; };
+		D6CC0C311F4A705A00EEFB6F /* SKLanguage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKLanguage.h; sourceTree = "<group>"; };
+		D6CC0C321F4A705A00EEFB6F /* SKLanguage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKLanguage.m; sourceTree = "<group>"; };
+		D6CC0C331F4A705A00EEFB6F /* SKParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKParser.h; sourceTree = "<group>"; };
+		D6CC0C341F4A705A00EEFB6F /* SKParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKParser.m; sourceTree = "<group>"; };
+		D6CC0C351F4A705A00EEFB6F /* SKPattern.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKPattern.h; sourceTree = "<group>"; };
+		D6CC0C361F4A705A00EEFB6F /* SKPattern.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKPattern.m; sourceTree = "<group>"; };
+		D6CC0C371F4A705A00EEFB6F /* SKReferenceManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKReferenceManager.h; sourceTree = "<group>"; };
+		D6CC0C381F4A705A00EEFB6F /* SKReferenceManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKReferenceManager.m; sourceTree = "<group>"; };
+		D6CC0C391F4A705A00EEFB6F /* SKRepository.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKRepository.h; sourceTree = "<group>"; };
+		D6CC0C3A1F4A705A00EEFB6F /* SKRepository.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKRepository.m; sourceTree = "<group>"; };
+		D6CC0C3B1F4A705A00EEFB6F /* SKResult.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKResult.h; sourceTree = "<group>"; };
+		D6CC0C3C1F4A705A00EEFB6F /* SKResult.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKResult.m; sourceTree = "<group>"; };
+		D6CC0C3D1F4A705A00EEFB6F /* SKResultSet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKResultSet.h; sourceTree = "<group>"; };
+		D6CC0C3E1F4A705A00EEFB6F /* SKResultSet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKResultSet.m; sourceTree = "<group>"; };
+		D6CC0C3F1F4A705A00EEFB6F /* SKScopedString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKScopedString.h; sourceTree = "<group>"; };
+		D6CC0C401F4A705A00EEFB6F /* SKScopedString.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKScopedString.m; sourceTree = "<group>"; };
+		D6CC0C411F4A705A00EEFB6F /* SKTheme.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKTheme.h; sourceTree = "<group>"; };
+		D6CC0C421F4A705A00EEFB6F /* SKTheme.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKTheme.m; sourceTree = "<group>"; };
+		D6CC0C431F4A705A00EEFB6F /* SyntaxKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SyntaxKit.h; sourceTree = "<group>"; };
+		D6CC0C441F4A705A00EEFB6F /* UIColor+SKColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+SKColor.h"; sourceTree = "<group>"; };
+		D6CC0C451F4A705A00EEFB6F /* UIColor+SKColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+SKColor.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -284,6 +360,13 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		2198CEC61B36D5D700BD463F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D6CC0C151F4A703500EEFB6F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -349,6 +432,7 @@
 			isa = PBXGroup;
 			children = (
 				2122A6E01B22B9320006409B /* SyntaxKit */,
+				D6CC0C1A1F4A703600EEFB6F /* SyntaxKitOC-iOS */,
 				2122A6DF1B22B9320006409B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -363,6 +447,7 @@
 				2198CECA1B36D5D700BD463F /* SyntaxKit.framework */,
 				211826DA1D257A71003F2BF2 /* SyntaxKit.framework */,
 				211826E31D257A71003F2BF2 /* SyntaxKitTests.xctest */,
+				D6CC0C191F4A703500EEFB6F /* SyntaxKit.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -389,6 +474,51 @@
 				210299CD1B2E8924009C61EE /* Tests */,
 			);
 			path = SyntaxKit;
+			sourceTree = "<group>";
+		};
+		D6CC0C1A1F4A703600EEFB6F /* SyntaxKitOC-iOS */ = {
+			isa = PBXGroup;
+			children = (
+				D6CC0C211F4A705A00EEFB6F /* SKAttributedParser.h */,
+				D6CC0C221F4A705A00EEFB6F /* SKAttributedParser.m */,
+				D6CC0C231F4A705A00EEFB6F /* SKAttributedParsingOperation.h */,
+				D6CC0C241F4A705A00EEFB6F /* SKAttributedParsingOperation.m */,
+				D6CC0C251F4A705A00EEFB6F /* SKBundleManager.h */,
+				D6CC0C261F4A705A00EEFB6F /* SKBundleManager.m */,
+				D6CC0C271F4A705A00EEFB6F /* SKCapture.h */,
+				D6CC0C281F4A705A00EEFB6F /* SKCapture.m */,
+				D6CC0C291F4A705A00EEFB6F /* SKCaptureCollection.h */,
+				D6CC0C2A1F4A705A00EEFB6F /* SKCaptureCollection.m */,
+				D6CC0C2B1F4A705A00EEFB6F /* SKHelper.h */,
+				D6CC0C2C1F4A705A00EEFB6F /* SKHelper.m */,
+				D6CC0C2D1F4A705A00EEFB6F /* SKHelperConfig.h */,
+				D6CC0C2E1F4A705A00EEFB6F /* SKHelperConfig.m */,
+				D6CC0C2F1F4A705A00EEFB6F /* SKInclude.h */,
+				D6CC0C301F4A705A00EEFB6F /* SKInclude.m */,
+				D6CC0C311F4A705A00EEFB6F /* SKLanguage.h */,
+				D6CC0C321F4A705A00EEFB6F /* SKLanguage.m */,
+				D6CC0C331F4A705A00EEFB6F /* SKParser.h */,
+				D6CC0C341F4A705A00EEFB6F /* SKParser.m */,
+				D6CC0C351F4A705A00EEFB6F /* SKPattern.h */,
+				D6CC0C361F4A705A00EEFB6F /* SKPattern.m */,
+				D6CC0C371F4A705A00EEFB6F /* SKReferenceManager.h */,
+				D6CC0C381F4A705A00EEFB6F /* SKReferenceManager.m */,
+				D6CC0C391F4A705A00EEFB6F /* SKRepository.h */,
+				D6CC0C3A1F4A705A00EEFB6F /* SKRepository.m */,
+				D6CC0C3B1F4A705A00EEFB6F /* SKResult.h */,
+				D6CC0C3C1F4A705A00EEFB6F /* SKResult.m */,
+				D6CC0C3D1F4A705A00EEFB6F /* SKResultSet.h */,
+				D6CC0C3E1F4A705A00EEFB6F /* SKResultSet.m */,
+				D6CC0C3F1F4A705A00EEFB6F /* SKScopedString.h */,
+				D6CC0C401F4A705A00EEFB6F /* SKScopedString.m */,
+				D6CC0C411F4A705A00EEFB6F /* SKTheme.h */,
+				D6CC0C421F4A705A00EEFB6F /* SKTheme.m */,
+				D6CC0C431F4A705A00EEFB6F /* SyntaxKit.h */,
+				D6CC0C441F4A705A00EEFB6F /* UIColor+SKColor.h */,
+				D6CC0C451F4A705A00EEFB6F /* UIColor+SKColor.m */,
+				D6CC0C1C1F4A703600EEFB6F /* Info.plist */,
+			);
+			path = "SyntaxKitOC-iOS";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -423,6 +553,32 @@
 			buildActionMask = 2147483647;
 			files = (
 				2198CEDC1B36D5E100BD463F /* SyntaxKit.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D6CC0C161F4A703500EEFB6F /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D6CC0C681F4A705A00EEFB6F /* SyntaxKit.h in Headers */,
+				D6CC0C691F4A705A00EEFB6F /* UIColor+SKColor.h in Headers */,
+				D6CC0C561F4A705A00EEFB6F /* SKLanguage.h in Headers */,
+				D6CC0C5E1F4A705A00EEFB6F /* SKRepository.h in Headers */,
+				D6CC0C621F4A705A00EEFB6F /* SKResultSet.h in Headers */,
+				D6CC0C501F4A705A00EEFB6F /* SKHelper.h in Headers */,
+				D6CC0C521F4A705A00EEFB6F /* SKHelperConfig.h in Headers */,
+				D6CC0C461F4A705A00EEFB6F /* SKAttributedParser.h in Headers */,
+				D6CC0C541F4A705A00EEFB6F /* SKInclude.h in Headers */,
+				D6CC0C581F4A705A00EEFB6F /* SKParser.h in Headers */,
+				D6CC0C601F4A705A00EEFB6F /* SKResult.h in Headers */,
+				D6CC0C641F4A705A00EEFB6F /* SKScopedString.h in Headers */,
+				D6CC0C5C1F4A705A00EEFB6F /* SKReferenceManager.h in Headers */,
+				D6CC0C4A1F4A705A00EEFB6F /* SKBundleManager.h in Headers */,
+				D6CC0C481F4A705A00EEFB6F /* SKAttributedParsingOperation.h in Headers */,
+				D6CC0C4E1F4A705A00EEFB6F /* SKCaptureCollection.h in Headers */,
+				D6CC0C661F4A705A00EEFB6F /* SKTheme.h in Headers */,
+				D6CC0C5A1F4A705A00EEFB6F /* SKPattern.h in Headers */,
+				D6CC0C4C1F4A705A00EEFB6F /* SKCapture.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -559,6 +715,24 @@
 			productReference = 2198CECA1B36D5D700BD463F /* SyntaxKit.framework */;
 			productType = "com.apple.product-type.framework";
 		};
+		D6CC0C181F4A703500EEFB6F /* SyntaxKitOC-iOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D6CC0C201F4A703600EEFB6F /* Build configuration list for PBXNativeTarget "SyntaxKitOC-iOS" */;
+			buildPhases = (
+				D6CC0C141F4A703500EEFB6F /* Sources */,
+				D6CC0C151F4A703500EEFB6F /* Frameworks */,
+				D6CC0C161F4A703500EEFB6F /* Headers */,
+				D6CC0C171F4A703500EEFB6F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "SyntaxKitOC-iOS";
+			productName = "SyntaxKitOC-iOS";
+			productReference = D6CC0C191F4A703500EEFB6F /* SyntaxKit.framework */;
+			productType = "com.apple.product-type.framework";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -592,6 +766,11 @@
 					2198CEC91B36D5D700BD463F = {
 						CreatedOnToolsVersion = 7.0;
 					};
+					D6CC0C181F4A703500EEFB6F = {
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = GXZ23M5TP2;
+						ProvisioningStyle = Automatic;
+					};
 				};
 			};
 			buildConfigurationList = 2122A6D81B22B9320006409B /* Build configuration list for PBXProject "SyntaxKit" */;
@@ -613,6 +792,7 @@
 				2198CEC91B36D5D700BD463F /* SyntaxKit-watchOS */,
 				211826D91D257A71003F2BF2 /* SyntaxKit-tvOS */,
 				211826E21D257A71003F2BF2 /* SyntaxKitTests-tvOS */,
+				D6CC0C181F4A703500EEFB6F /* SyntaxKitOC-iOS */,
 			);
 		};
 /* End PBXProject section */
@@ -691,6 +871,13 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		2198CEC81B36D5D700BD463F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D6CC0C171F4A703500EEFB6F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -849,6 +1036,31 @@
 				2198CEDB1B36D5DE00BD463F /* Theme.swift in Sources */,
 				2198CED91B36D5DE00BD463F /* Result.swift in Sources */,
 				2198CED21B36D5DE00BD463F /* AttributedParser.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D6CC0C141F4A703500EEFB6F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D6CC0C5F1F4A705A00EEFB6F /* SKRepository.m in Sources */,
+				D6CC0C591F4A705A00EEFB6F /* SKParser.m in Sources */,
+				D6CC0C631F4A705A00EEFB6F /* SKResultSet.m in Sources */,
+				D6CC0C551F4A705A00EEFB6F /* SKInclude.m in Sources */,
+				D6CC0C5B1F4A705A00EEFB6F /* SKPattern.m in Sources */,
+				D6CC0C571F4A705A00EEFB6F /* SKLanguage.m in Sources */,
+				D6CC0C4D1F4A705A00EEFB6F /* SKCapture.m in Sources */,
+				D6CC0C511F4A705A00EEFB6F /* SKHelper.m in Sources */,
+				D6CC0C531F4A705A00EEFB6F /* SKHelperConfig.m in Sources */,
+				D6CC0C6A1F4A705A00EEFB6F /* UIColor+SKColor.m in Sources */,
+				D6CC0C611F4A705A00EEFB6F /* SKResult.m in Sources */,
+				D6CC0C5D1F4A705A00EEFB6F /* SKReferenceManager.m in Sources */,
+				D6CC0C491F4A705A00EEFB6F /* SKAttributedParsingOperation.m in Sources */,
+				D6CC0C671F4A705A00EEFB6F /* SKTheme.m in Sources */,
+				D6CC0C4B1F4A705A00EEFB6F /* SKBundleManager.m in Sources */,
+				D6CC0C4F1F4A705A00EEFB6F /* SKCaptureCollection.m in Sources */,
+				D6CC0C651F4A705A00EEFB6F /* SKScopedString.m in Sources */,
+				D6CC0C471F4A705A00EEFB6F /* SKAttributedParser.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1266,6 +1478,59 @@
 			};
 			name = Release;
 		};
+		D6CC0C1E1F4A703600EEFB6F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = GXZ23M5TP2;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_BITCODE = NO;
+				INFOPLIST_FILE = "SyntaxKitOC-iOS/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.darwindev.SyntaxKitOC-iOS";
+				PRODUCT_NAME = SyntaxKit;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D6CC0C1F1F4A703600EEFB6F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = GXZ23M5TP2;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_BITCODE = NO;
+				INFOPLIST_FILE = "SyntaxKitOC-iOS/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.darwindev.SyntaxKitOC-iOS";
+				PRODUCT_NAME = SyntaxKit;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -1340,6 +1605,14 @@
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
+		};
+		D6CC0C201F4A703600EEFB6F /* Build configuration list for PBXNativeTarget "SyntaxKitOC-iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D6CC0C1E1F4A703600EEFB6F /* Debug */,
+				D6CC0C1F1F4A703600EEFB6F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};

@@ -10,6 +10,7 @@ SyntaxKit was originally abstracted from [Whiskey](http://usewhiskey.com).
 ## Building
 
 SyntaxKit is written in Swift 3 so Xcode 8 is required. There aren't any dependencies besides system frameworks.
+**SyntaxKitOC** (Beta) is written in Objective-C. It seems 3 times faster than Swift Version in production.
 
 
 ## Installation
